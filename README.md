@@ -1,4 +1,4 @@
 # odin-recipes
 Odin Project
 
-Applying HTML
+Basic HTML Project
